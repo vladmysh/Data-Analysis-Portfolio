@@ -21,25 +21,25 @@
 ## Проекты
 В этом разделе перечислены проекты с их кратким описанием и набором применяемых инструментов.
 
-### Анализ опроса населения от ЦБ
-**Цель:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+### Анализ опроса населения от Центрального банка Российской Федерации
+**Цель:** Исследовать гипотезу влияния возраста человека на его уровень финансовой грамотности с помощью методов математической статистики и регрессионного анализа.
 
-**Код:** [`Tech Store Sales Analysis.ipynb`](https://github.com/)
+**Код:** В процессе написания.
 
-**Описание:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Описание:** В датасете представлены данные Всероссийского обследования домохозяйств по потребительским финансам в 2022 году, опрос провел Банк России. Из информации о финансах и финансовом поведении на уровне домохозяйства (семьи) можно построить ряд гипотез о взаимодействии различных показателей друг на друга.
 
-**Навыки:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Навыки:** загрузка датасета, очистка и преобразование данных, анализ выборки, проверка гипотезы, визуализация.
 
-**Инструменты:** Python, Pandas, Matplotlib.
+**Инструменты:** Python, Pandas, Matplotlib, Seaborn, SciPy.
 
-**Результаты:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+**Результаты:** В процессе написания.
 
 ### Построение графика погашения кредита
-**Код:** [`COVID Portfolio Project.sql`](https://github.com/)
+**Код:** [`График погашения кредита по номеру договора.sql`](https://github.com/vladmysh/Data-Analyst-Portfolio/blob/main/График%20погашения%20кредита%20по%20номеру%20договора.sql)
 
-**Описание:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Описание:** Запрос содержит реальный запрос построения графика погашения по указанному номеру кредита.
 
-**Навыки:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Навыки:** Joins, временные таблицы, оконные функции, агрегация и фильтрация, цикл
 
 **Инструменты:** SQL Server
 
