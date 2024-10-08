@@ -19,8 +19,29 @@
 
 
 ## Проекты
+В этом разделе перечислены проекты с их кратким описанием и набором применяемых инструментов.
 
-...
+### Анализ опроса населения от ЦБ
+**Цель:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+
+**Код:** [`Tech Store Sales Analysis.ipynb`](https://github.com/)
+
+**Описание:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+
+**Навыки:** data cleaning, data analysis, hypothesis testing, data visualization.
+
+**Инструменты:** Python, Pandas, Matplotlib.
+
+**Результаты:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+
+### Построение графика погашения кредита
+**Код:** [`COVID Portfolio Project.sql`](https://github.com/)
+
+**Описание:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Навыки:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Инструменты:** SQL Server
 
 
 ## Контакты
