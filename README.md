@@ -19,4 +19,4 @@
 
 ## Контакты
 - Почта: myshkin.vo@gmail.com
-- Telegram: myshkin_v
+- [Telegram](https://t.me/myshkin_v)
