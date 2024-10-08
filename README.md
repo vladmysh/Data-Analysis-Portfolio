@@ -18,5 +18,5 @@
 
 
 ## Контакты
-- [Почта](myshkin.vo@gmail.com)
-- [Telegram](https://t.me/myshkin_v)
+- Почта: myshkin.vo@gmail.com
+- Telegram: myshkin_v
